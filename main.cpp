@@ -1,2 +1,0 @@
-//Hola guineos
-//Senti cosas

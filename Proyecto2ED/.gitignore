@@ -32,20 +32,15 @@ build/
 *.exp
 *.manifest
 *.nupkg
-
-# Archivos del sistema
+*.DS_Store
 Thumbs.db
 Desktop.ini
 .DS_Store
-
-# Ignorar dependencias locales
 allegro-5*/
 deps/
 external/
 libs/
 bin/
-
-# Permitir código y recursos
 !*.cpp
 !*.h
 !*.hpp
